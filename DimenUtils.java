@@ -114,4 +114,9 @@ public class DimenUtils {
     }
 	
 	//test修改
+	private static int get() {
+		int a = 0;
+		int b = 1;
+		return 1;
+	}
 }
